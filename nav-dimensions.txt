@@ -1,0 +1,28 @@
+navigation bar
+whole height: 180px
+whole width: 960px
+
+10px margin on top & bot so usable height 160px
+
+two different rows in this
+top row - 60px height
+bottom row - 100px height
+
+8 different columns across the width
+each column 120px wide 
+
+on top row:
+first 3 columns empty
+columns 4/5 used by logo space
+column 6 not used
+column 7 has "Text size:"
+column 8 has + and - buttons in
+
+on bottom row:
+3 left sided links 
+2 logo in centre
+3 right sided links
+
+
+logo img uses both rows (160px tall 240px wide)
+

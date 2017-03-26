@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+
+.header {
+  height: 160px;
+  background-color: #cc3333;
+  text-align: justify;
+  padding: 0 50px;
+}
+
+.nav-box {
+  height: 160px;
+  display: inline-block;
+}
+
+.nav-logo-box {
+  height: 160px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.nav-top-box {
+  height: 60px;
+}
+
+.nav-bottom-box {
+  height: 100px;
+}
+
+.nav-text {
+  font-size: 1.25em;
+  color: white;
+  text-decoration: none;
+  position: relative;
+  top: 25%;
+  transform: translateY(-25%);
+}
+
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+}
